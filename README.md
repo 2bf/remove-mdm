@@ -1,5 +1,5 @@
 # remove-mdm
-## This repo describes the steps to remove MDM (mobile device management) restrictions from an iPad or other mobile device.
+## This repository describes the steps to remove MDM (mobile device management) restrictions from an iPad or other mobile device.
 ### (This method is completely FREE and does not require the installation of any potentially harmful software or bloatware that may cost money.)
 
 
