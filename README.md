@@ -10,3 +10,6 @@ Apple Mobile Device Management (MDM) is a paid program that, when activated, all
 > ***Disclaimer: The purpose of this article is strictly educational. You shall not use the information to gain unauthorized access. Performing the following steps (without permission) on computers that you do not own may be against policies or laws. These steps may be performed at your own risk. I am not liable for causing any damage directly or indirectly resulting from any use of this information wholly or partially. I reserve the right to modify this Disclaimer at any time without notice.***
 
 -chiming wang
+
+
+### To get started: [click here](remove-mdm.md)
