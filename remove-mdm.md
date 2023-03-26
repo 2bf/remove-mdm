@@ -1,4 +1,4 @@
-# [Please see the README file before reading this file.](README.md)
+# [Please see the README file before viewing the information in this file.](README.md)
 
 ## Below are the necessary steps that allow a user to bypass any MDM restrictions on an iPad.
 
