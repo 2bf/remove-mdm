@@ -12,7 +12,7 @@ Apple Mobile Device Management (MDM) is a paid program that, when activated, all
 -chiming wang
 
 
-## To get started: [click here](remove-mdm.md)
+### To get started: [click here](remove-mdm.md)
 
 
 You are permitted to send links of this repository to anyone!
