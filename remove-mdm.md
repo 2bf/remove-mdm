@@ -40,3 +40,7 @@
   - Now you can download any apps onto the school iPad.
 ### 6. Verify full system functionality
   - Run all apps and make sure they work.
+
+
+#  
+Copyright © 2023 Guhoo Technology LLC. All rights reserved
