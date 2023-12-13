@@ -43,4 +43,4 @@
 
 
 #  
-Copyright © 2023 Guhoo Technology LLC. All rights reserved
+Copyright © 2023 Chiming Wang. All rights reserved.
