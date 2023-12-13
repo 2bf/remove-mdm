@@ -16,4 +16,4 @@ You are permitted to send links of this repository to anyone!
 ### To get started: [click here](remove-mdm.md)
 
 #  
-Copyright © 2023 Guhoo Technology LLC. All rights reserved
+Copyright © 2023 Chiming Wang. All rights reserved.
